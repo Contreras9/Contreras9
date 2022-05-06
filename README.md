@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **enhancing my Ruby on Rails skills and .**
 
-- 🌱 I’m currently learning and solving chellenges on **data structures and algorithms.**
+- 🌱 I’m currently learning and solving challenges on **data structures and algorithms.**
 
 - 🏋🏽 My current projects that I worked on at [Flatiron School](https://github.com/Contreras9?tab=stars)
 
