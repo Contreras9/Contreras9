@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏼, I'm Hamzah Contreras</h1>
 <h3 align="center">A passionate Software-Engineer from the US 🇺🇸</h3>
 
-- 🔭 I’m currently working on **enhancing my Ruby on Rails skills and .**
+- 🔭 I’m currently working on **enhancing my Ruby on Rails skills and practicing C# as a new language.**
 
 - 🌱 I’m currently learning and solving challenges on **data structures and algorithms.**
 
