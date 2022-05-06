@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋🏼, I'm Hamzah Contreras</h1>
 <h3 align="center">A passionate Software-Engineer from the US 🇺🇸</h3>
 
-- 🔭 I’m currently working on **enhancing my Ruby on Rails skills.**
+- 🔭 I’m currently working on **enhancing my Ruby on Rails skills and .**
 
-- 🌱 I’m currently learning **data structures and algorithms.**
+- 🌱 I’m currently learning and solving chellenges on **data structures and algorithms.**
 
 - 🏋🏽 My current projects that I worked on at [Flatiron School](https://github.com/Contreras9?tab=stars)
 
