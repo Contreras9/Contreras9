@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋🏼, I'm Hamzah Contreras</h1>
 <h3 align="center">A passionate Software-Engineer from the US 🇺🇸</h3>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Contreras9&label=Profile%20views&color=0e75b6&style=flat" alt="Contreras9" />
+		   <img src="https://badges.pufler.dev/repos/Contreras9" alt="Contreras9" />
+		   <img src="https://img.shields.io/github/followers/Contreras9?label=Followers" alt="Contreras9" />
+</p>
+
 - 🔭 I’m currently working on **enhancing my Ruby on Rails skills and practicing C# as a new language.**
 
 - 🌱 I’m currently learning and solving challenges on **data structures and algorithms.**
