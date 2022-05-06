@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋🏼, I'm Hamzah Contreras</h1>
 <h3 align="center">A passionate Software-Engineer from the US🇺🇸</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=contreras9" alt="contreras9" /></a> </p>
-
 - 🔭 I’m currently working on **enhancing my Ruby on Rails skills.**
 
 - 🌱 I’m currently learning **data structures and algorithms.**
