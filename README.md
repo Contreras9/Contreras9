@@ -56,7 +56,6 @@
    <a href="https://github.com/Contreras9"><img alt="Hamzah's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Contreras9&custom_title=Hamzah%20Contreras%27s%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
-
 <br/>
 
 ### :trophy: Git profile Trophies
@@ -69,3 +68,4 @@
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
+----
