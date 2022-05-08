@@ -63,10 +63,3 @@
 <p align="center"> <a href="https://github.com/Contreras9/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Contreras9&layout=compact&theme=algolia" alt="Hamzah" /></a> </p>
 
 ----
-
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
-
-----
