@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **eng.hamzahc9@gmail.com**
 - 💭 I’m currently open for: `An Intern` or a new `job opportunity`.
-- ⚡ Fun fact **I enjoy learning new concepts in all aspects of engineering.**
+- ⚡ Fun fact **I enjoy learning new concepts in all aspects of engineering, working out, and MMA.**
 <br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
