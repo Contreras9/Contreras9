@@ -51,13 +51,6 @@
 
 ----
 
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/Contreras9"><img alt="Hamzah's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Contreras9&custom_title=Hamzah%20Contreras%27s%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-<br/>
-
 ### :trophy: Git profile Trophies
 
 <p align="center"> <a href="https://github.com/Contreras9/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Contreras9&layout=compact&theme=algolia" alt="Hamzah" /></a> </p>
