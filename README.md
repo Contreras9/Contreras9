@@ -2,7 +2,6 @@
 <h3 align="center">I'm a Software-Engineer from the US 🇺🇸</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Contreras9&label=Profile%20views&color=0e75b6&style=flat" alt="Contreras9" />
-		   <img src="https://badges.pufler.dev/repos/Contreras9" alt="Contreras9" />
 		   <img src="https://img.shields.io/github/followers/Contreras9?label=Followers" alt="Contreras9" />
 </p>
 
