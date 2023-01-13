@@ -5,7 +5,7 @@
 		   <img src="https://img.shields.io/github/followers/Contreras9?label=Followers" alt="Contreras9" />
 </p>
 
-- 🔭 I’m currently working on **enhancing my Ruby on Rails skills and practicing C# as a new language.**
+- 🔭 I’m currently working on **enhancing and practicing Java.**
 
 - 🌱 I’m currently learning and solving challenges on **data structures and algorithms.**
 
