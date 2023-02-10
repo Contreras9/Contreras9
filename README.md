@@ -15,7 +15,6 @@
 
 - 💬 Ask me about **JavaScript, React, and Ruby on Rails or Sinatra.**
 
-- 📫 How to reach me **eng.hamzahc9@gmail.com**
 - 💭 I’m currently open for: `An Intern` or a new `job opportunity`.
 - ⚡ Fun fact **I enjoy learning new concepts in all aspects of engineering, working out, and MMA.**
 <br>
